@@ -38,6 +38,7 @@
 
 
 # 🎉News
+- **[2026/01/26]** 🎉 ExGRPO has been accepted to **ICLR 2026**!
 - **[2025/10/04]** 🚀 Introducing [ExGRPO](https://github.com/ElliottYan/LUFFY/tree/main/ExGRPO), a new variant that boosts performance by **learning from the model’s own off-policy experience**, without relying on external guidance.
 - **[2025/09/19]** 🎉 LUFFY has been accepted to **NeurIPS 2025**!
 - **[2025/05/30]** We integrate the implementation and scripts of other off-policy learning methods including SFT, SFT+RL and RL w/ SFT Loss (multi-task learning).
