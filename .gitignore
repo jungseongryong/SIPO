@@ -1,0 +1,8 @@
+.DS_Store
+.conda/
+ckpt/
+outputs/
+wandb/
+outlines/
+data/openr1.parquet
+data/openrlhf_sft/
